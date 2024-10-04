@@ -1,16 +1,15 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi, I’m SAMWEL SALIM, a software engineer with a passion for building efficient, scalable solutions. I specialize in full-stack development and love tackling complex challenges with clean code.
 
-<!--
-**Sparkssam/Sparkssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack: HTML, JAVA
+🚀 Currently: Working on Mobile Development
+🌱 Learning: Exploring AI, blockchain, DevOps
+💬 Let’s Connect: Https://wa.me/255710234421
 
-Here are some ideas to get you started:
+🌐 Socials:
+[LinkedIn](https://linkedin.com/in/samwel salim) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C++ C C# Java Go Chart.js Apache Maven Apache Tomcat Firebase MongoDB MySQL SQLite Adobe Next JS React Query React Native OpenStack GithubPages HTML5 Python PHP R ReScript Ruby TypeScript Swift Windows Terminal
+
+📊 GitHub Stats:
